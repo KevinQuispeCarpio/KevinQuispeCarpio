@@ -24,7 +24,8 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,postgres,git,vscode,docker"  />
 </p>
-<br 
+<br />
+
 
 <h2 align="center">🐍 Mi Contribución en Snake</h2>                                                                                                                                                                                           
 <p align="center">                                                                                                                                                                                                                            
